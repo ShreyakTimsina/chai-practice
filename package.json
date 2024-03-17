@@ -1,0 +1,16 @@
+{
+  "name": "chai-practice",
+  "version": "1.0.0",
+  "description": "A backend practice done according the youtube playlist javascript backend with chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Shreyak Timsina",
+  "license": "ISC"
+}
